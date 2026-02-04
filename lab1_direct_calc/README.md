@@ -22,6 +22,3 @@ All calculations were performed via the Command Window. Detailed logs and values
 * Task 1 Result: `3.6788e-01`
 * Complex Magnitude: `8.0623e+00`
 * Final Expression: `2.7313e+01 - 2.7100e+01i`
-
-## ✅ Conclusion
-I successfully learned how to use MATLAB for direct calculations. The work covered variable assignments, complex number manipulation, and session documentation.
